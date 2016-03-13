@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "KHK Members only"
+AuthUserFile "/home/deltakhk/.htpasswds/public_html/wiki/passwd"
+require valid-user
+DirectoryIndex index.php

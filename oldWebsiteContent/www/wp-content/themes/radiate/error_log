@@ -1,0 +1,2 @@
+[01-Jun-2015 16:11:49 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/deltakhk/public_html/wp-content/themes/radiate/index.php on line 16
+[02-Jun-2015 11:48:55 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/deltakhk/public_html/wp-content/themes/radiate/index.php on line 16

